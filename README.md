@@ -59,15 +59,15 @@ You can adjust this in the time.sleep() call inside main.py.
 ---
 
 ##📦 CyberSec_Trojan_Sim
- ┣ 📜 main.py
- ┣ 📜 README.md
- ┣ 📜 requirements.txt
- ┣ 📂 outputs
- ┃ ┣ 📜 system_info.txt
- ┃ ┣ 📜 clipboard.txt
- ┃ ┣ 🖼️ screenshot.png
- ┃ ┣ 📷 webcam.png
- ┃ ┗ 🎙️ audio.wav
+ - ┣ 📜 main.py
+ - ┣ 📜 README.md
+ - ┣ 📜 requirements.txt
+ - ┣ 📂 outputs
+ - ┃ ┣ 📜 system_info.txt
+ - ┃ ┣ 📜 clipboard.txt
+ - ┃ ┣ 🖼️ screenshot.png
+ - ┃ ┣ 📷 webcam.png
+ - ┃ ┗ 🎙️ audio.wav
 ---
 Ethical Considerations
 
