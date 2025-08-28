@@ -37,28 +37,28 @@ The author is not responsible for misuse.
 git clone https://github.com/Gustav1814/CyberSec_Trojan_Sim.git
 cd CyberSec_Trojan_Sim
 ```
-2. Install Requirements
+### 2. Install Requirements
+```bash
 pip install -r requirements.txt
-
-4. Run the Tool
+```
+### 4. Run the Tool
+```bash
 python main.py
-
+```
+---
 By default, the tool waits 10 seconds before capturing data.
 You can adjust this in the time.sleep() call inside main.py.
+---
 
-Output Files
+## Output Files
+- 📝 system_info.txt – System hardware & network details
+- 📑 clipboard.txt – Clipboard contents
+- 🖼️ screenshot.png – Desktop screenshot
+- 📷 webcam.png – Webcam snapshot
+- 🎙️ audio.wav – Microphone audio recording
+---
 
-📝 system_info.txt – System hardware & network details
-
-📑 clipboard.txt – Clipboard contents
-
-🖼️ screenshot.png – Desktop screenshot
-
-📷 webcam.png – Webcam snapshot
-
-🎙️ audio.wav – Microphone audio recording
-
-📦 CyberSec_Trojan_Sim
+##📦 CyberSec_Trojan_Sim
  ┣ 📜 main.py
  ┣ 📜 README.md
  ┣ 📜 requirements.txt
@@ -68,22 +68,18 @@ Output Files
  ┃ ┣ 🖼️ screenshot.png
  ┃ ┣ 📷 webcam.png
  ┃ ┗ 🎙️ audio.wav
-
-
+---
 Ethical Considerations
 
-This project is intended for:
-
-🎓 Cybersecurity education
-
-🧪 Malware behavior research (in sandbox/lab)
-
-🛡️ Understanding red-team surveillance methods
-
+## This project is intended for:
+- 🎓 Cybersecurity education
+- 🧪 Malware behavior research (in sandbox/lab)
+- 🛡️ Understanding red-team surveillance methods
+---
 ❌ Do not use this on personal or third-party systems without explicit consent.
 Such actions are a violation of privacy laws and may result in severe legal consequences.
-
-Author
-ZEERAK SHAHZAD
-🎓 BS Cybersecurity
-🏫 National University of Computer and Emerging Sciences (FAST)
+---
+## Author
+- ZEERAK SHAHZAD
+- 🎓 BS Cybersecurity
+- 🏫 National University of Computer and Emerging Sciences (FAST)
